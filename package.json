@@ -1,0 +1,12 @@
+{
+  "name": "a",
+  "version": "0.0.0",
+  "description": "Z",
+  "main": "index.js",
+  "repository": "https://github.com/tniXu7/FrontBack",
+  "author": "<tmiXu7> <<georgmisakyan@gmail.com>>",
+  "license": "MIT",
+  "dependencies": {
+    "web-vitals": "^4.2.4"
+  }
+}
